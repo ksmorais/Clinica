@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipe de saúde</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Disponibilidade</h1>
+    </header>
+
+    <main>
+        <section>
+            <label for="nome">Pesquisar por Nome:</label>
+            <input type="text" id="nome" placeholder="Digite o nome do profissional">
+
+            <label for="especialidade">Filtrar por Especialidade:</label>
+            <input type="text" id="especialidade" placeholder="Digite a especialidade">
+
+            <button id="buscarBtn">Buscar</button>
+        </section>
+
+        <section id="resultados">
+            <h2>Resultados</h2>
+            <ul id="listaProfissionais"></ul>
+        </section>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

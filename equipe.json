@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Dra. Maria Silva",
+        "especialidade": "Ginecologia",
+        "disponibilidade": "Segunda e Quarta"
+    },
+    {
+        "nome": "Dr. João Oliveira",
+        "especialidade": "Cardiologia",
+        "disponibilidade": "Terça e Quinta"
+    },
+    {
+        "nome": "Dra. Ana Souza",
+        "especialidade": "Pediatria",
+        "disponibilidade": "Sexta"
+    }
+]
