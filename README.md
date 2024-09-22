@@ -65,7 +65,7 @@
 <h2>Como executar o projeto</h2>
 <h3>1) Clone o repositório</h3>
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/ksmorais/Clinica.git
 
 <h3>2) Instale as dependências</h3>
 
